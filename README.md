@@ -31,8 +31,3 @@ This project demonstrates how to forecast stock prices using ARIMA models. The d
 [MIT License]
 
 ---
-
-## 🚀 How to Run
-```bash
-pip install -r requirements.txt
-jupyter notebook
