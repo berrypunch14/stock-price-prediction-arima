@@ -18,7 +18,7 @@ This project demonstrates how to forecast stock prices using ARIMA models. The d
 5. Evaluate with MAE, MSE, RMSE (IP)
 
 ## 📁 Files
-- `Stock_price_prediction_documented.ipynb`: Full analysis with markdowns
+- `stock-price-prediction-arima.ipynb`: Full analysis with markdowns
 - `NESTLEIND.csv`: Raw stock price data (or instructions to download)
 - `requirements.txt`: List of required packages
 
